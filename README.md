@@ -1,0 +1,1 @@
+This is a Capstone Final Project for a static Medical Appointment Booking website page. All ideas and insights towards the greatness of this project is highly welcomed.
