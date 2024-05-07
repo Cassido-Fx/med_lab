@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Landing_Page.css";
 import Layout from './components/Landing_Page/Landing_page';
+import Layout from './Components/Landing_Page/Landing_Page'
 <Route path="/" element={<Landing_Page/>}/>
 
 const Landing_Page = () => {
@@ -37,4 +38,4 @@ const Landing_Page = () => {
   );
 };
 
-export default Landing_Page;
+export default LandngPage;
